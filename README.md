@@ -6,7 +6,18 @@ Each article starts from a design I drew myself, then works through where it bre
 
 | System | Core hard problem | Article |
 |---|---|---|
-| WhatsApp | Message delivery guarantees, routing to the socket-holding server, ordering | [whatsapp.md](whatsapp.md) |
+| WhatsApp | Message delivery guarantees, routing to the socket-holding server, ordering | [designs/whatsapp](designs/whatsapp/README.md) |
+
+## Layout
+
+Each system gets its own folder under `designs/`, with the article and my original diagram side by side:
+
+```
+designs/
+└── whatsapp/
+    ├── README.md            the article
+    └── starting-design.png  my first attempt, exported from Excalidraw
+```
 
 ## Patterns
 
