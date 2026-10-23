@@ -27,9 +27,13 @@
 
 ## My Starting Design
 
-[View the original Excalidraw diagram](https://tinyurl.com/3rw9nw2z)
+Here's the design I drew before studying the real thing:
 
-Here's what I had before studying the full design:
+![My original WhatsApp design in Excalidraw: requirements, capacity estimate, data model and APIs on the left; Client, API gateway, Chat service, DynamoDB and Redis Pub/Sub on the right](images/whatsapp-starting-design.png)
+
+*Click the image to see it full size, or [open the interactive version on Excalidraw](https://tinyurl.com/3rw9nw2z).*
+
+In text form, it came down to this:
 
 **Functional requirements:**
 - Send and receive messages between users
