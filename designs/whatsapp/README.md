@@ -29,7 +29,7 @@
 
 Here's the design I drew before studying the real thing:
 
-![My original WhatsApp design in Excalidraw: requirements, capacity estimate, data model and APIs on the left; Client, API gateway, Chat service, DynamoDB and Redis Pub/Sub on the right](images/whatsapp-starting-design.png)
+![My original WhatsApp design in Excalidraw: requirements, capacity estimate, data model and APIs on the left; Client, API gateway, Chat service, DynamoDB and Redis Pub/Sub on the right](starting-design.png)
 
 *Click the image to see it full size, or [open the interactive version on Excalidraw](https://tinyurl.com/3rw9nw2z).*
 
