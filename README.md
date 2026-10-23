@@ -6,6 +6,11 @@ Each article starts from a design I drew myself, then works through where it bre
 
 | System | Core hard problem | Article |
 |---|---|---|
+| WhatsApp | Message delivery guarantees, routing to the socket-holding server, ordering | [whatsapp.md](whatsapp.md) |
+
+## Patterns
+
+[patterns.md](patterns.md) collects the ideas that show up in more than one system, with links to where each one is explained.
 
 ## Checking links
 
