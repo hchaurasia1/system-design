@@ -7,6 +7,7 @@ Each article starts from a design I drew myself, then works through where it bre
 | System | Core hard problem | Article |
 |---|---|---|
 | WhatsApp | Message delivery guarantees, routing to the socket-holding server, ordering | [designs/whatsapp](designs/whatsapp/README.md) |
+| Chronological news feed | Hybrid fan-out, celebrity merging, cursor boundaries, and seen state | [designs/fb-news-feed](designs/fb-news-feed/README.md#my-starting-design) |
 
 ## Layout
 
@@ -14,9 +15,12 @@ Each system gets its own folder under `designs/`, with the article and my origin
 
 ```
 designs/
-└── whatsapp/
-    ├── README.md            the article
-    └── starting-design.png  my first attempt, exported from Excalidraw
+├── whatsapp/
+│   ├── README.md            the article
+│   └── starting-design.png  my first attempt, exported from Excalidraw
+└── fb-news-feed/
+    ├── README.md
+    └── starting-design.png
 ```
 
 ## Patterns
